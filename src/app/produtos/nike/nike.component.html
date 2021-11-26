@@ -1,0 +1,15 @@
+<br>
+<br>
+<div class="container ">
+    <nav aria-label="breadcrumb">
+      <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a [routerLink]="['/home']" routerLinkActive="active">Inicio</a></li>
+        <li class="breadcrumb-item" [routerLink]="['/nike']" routerLinkActive="active">Nike</li>
+      </ol>
+    </nav>
+  </div>
+  <div class="nike" *ngFor="let tenisNike of products">
+      <h6>{{tenisNike.nome}}</h6>
+      <img [src]="tenisNike.imgg">
+      <p>{{tenisNike.price}}</p>
+  </div>

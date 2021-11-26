@@ -1,0 +1,7 @@
+.nike{
+    text-align: center;
+    display: inline-flex;
+    flex-wrap: wrap;
+    margin-left: 20px;
+    align-items: baseline;
+}

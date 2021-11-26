@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\breadcrumb",
+    "\\src\\app\\menu"
+  ],
+  "SelectedNode": "\\src\\app\\breadcrumb\\breadcrumb.component.html",
+  "PreviewInSolutionExplorer": false
+}
