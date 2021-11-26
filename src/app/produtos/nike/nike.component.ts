@@ -12,7 +12,7 @@ export class NikeComponent implements OnInit {
 
     },
     {
-      nome: 'excee ', imgg: 'assets/nike', price: ''
+      nome: 'excee ', imgg: 'assets/nike/excee.jpg', price: 'R$ 350,00'
     },
     {
       nome: 'giannis', imgg: 'assets/nike', price: ''
