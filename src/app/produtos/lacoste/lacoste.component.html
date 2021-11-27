@@ -8,3 +8,8 @@
       </ol>
     </nav>
   </div>
+  <div class="adidas" *ngFor="let tenisAdidas of products">
+    <h6>{{tenisAdidas.nome}}</h6>
+    <img [src]="tenisAdidas.imgg">
+    <p>{{tenisAdidas.price}}</p>
+</div>

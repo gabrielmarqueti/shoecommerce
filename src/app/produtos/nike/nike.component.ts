@@ -8,35 +8,35 @@ import { Component, OnInit } from '@angular/core';
 export class NikeComponent implements OnInit {
   products = [
     {
-      nome: 'downshifter', imgg: 'assets/nike/downshifter.jpg', price: '120'
+      nome: 'Downshifter', imgg: 'assets/nike/downshifter.jpg', price: 'R$ 799,89'
 
     },
     {
-      nome: 'excee ', imgg: 'assets/nike/excee.jpg', price: 'R$ 350,00'
+      nome: 'Excee ', imgg: 'assets/nike/excee.jpg', price: 'R$ 599,99'
     },
     {
-      nome: 'giannis', imgg: 'assets/nike', price: ''
+      nome: 'Giannis', imgg: 'assets/nike/giannis.jpg', price: 'R$ 353,00'
     },
     {
-      nome: 'lebron', imgg: 'assets/nike', price: ''
+      nome: 'Lebron', imgg: 'assets/nike/lebron.jpg', price: 'R$ 557,60'
     },
     {
-      nome: '', imgg: 'assets/nike', price: ''
+      nome: 'Legacy', imgg: 'assets/nike/legacy.jpg', price: 'R$ 355,00'
     },
     {
-      nome: '', imgg: 'assets/nike', price: ''
+      nome: 'Legend', imgg: 'assets/nike/legend.jpg', price: 'R$ 152,00'
     },
     {
-      nome: '', imgg: 'assets/nike', price: ''
+      nome: 'Revolution', imgg: 'assets/nike/revolution.jpg', price: 'R$ 854,00'
     },
     {
-      nome: '', imgg: 'assets/nike', price: ''
+      nome: 'Run', imgg: 'assets/nike/run.jpg', price: 'R$ 297,00'
     },
     {
-      nome: '', imgg: 'assets/nike', price: ''
+      nome: 'Trainer', imgg: 'assets/nike/trainer.jpg', price: 'R$ 154,99'
     },
     {
-      nome: '', imgg: 'assets/nike', price: ''
+      nome: 'Winflo', imgg: 'assets/nike/winflo.jpg', price: 'R$ 350,00'
     }
   ]
 
